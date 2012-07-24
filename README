@@ -1,6 +1,6 @@
 TrinityCore database World of Warcraft 3.3.5 (build 12340)
 
-For all who're using our aowow Repo: Please change the url for Ajax requests in global.ja to your own Server!
+For all who're using our aowow Repo: Please change the url for Ajax requests in global.js to your own Server!
 I've currently blocked 3 Russian Server Spamming our Webserver with permanent Ajax requests for Tooltips!
 
 Greetings
